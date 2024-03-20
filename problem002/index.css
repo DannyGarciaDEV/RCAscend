@@ -1,0 +1,12 @@
+.fiction { background-color: #ffe0b2; }
+.science-fiction { background-color: #b3e5fc; }
+.classic { background-color: #d7ccc8; }
+.coming-of-age { background-color: #f8bbd0; }
+.romance { background-color: #f8bbd0; }
+.fantasy { background-color: #c5cae9; }
+.modernist { background-color: #c8e6c9; }
+.magical-realism { background-color: #ffcc80; }
+
+/* Style for bold title and italic author */
+.bold { font-weight: bold; }
+.italic { font-style: italic; }
